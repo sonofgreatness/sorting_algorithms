@@ -33,7 +33,8 @@ void bubble_sort(int *array, size_t size)
 	if (checker == 0)
 	{
 		printf("\n"); 
-		exit(EXIT_SUCCESS);
+		j = 1024; 
+
 	}
-}
+} 
 }
